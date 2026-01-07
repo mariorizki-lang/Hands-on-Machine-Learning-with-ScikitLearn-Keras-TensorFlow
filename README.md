@@ -1,6 +1,6 @@
 # Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow – Summary
 
-![Alt Text](
+![Alt Text](Cover.jpg)
 
 This repository contains notes, code, and experiments based on *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd Edition)* by Aurélien Géron.[file:1] The book is divided into two main parts: **traditional machine learning** with Scikit-Learn and **deep learning** with TensorFlow/Keras.[file:1]
 
